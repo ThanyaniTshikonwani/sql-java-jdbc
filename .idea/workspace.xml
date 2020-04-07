@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f205a320-1481-4746-87ed-488ed86bf7b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sql&amp;java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sql&amp;java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sql&amp;java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aDvbDdh9NBH2i1jEjfyIVLSXBi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../postgresql-42.2.12.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SqlJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SqlJava" />
+      <module name="sql&amp;java.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SqlJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f205a320-1481-4746-87ed-488ed86bf7b2" name="Default Changelist" comment="" />
+      <created>1586283047427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586283047427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="58" width="847" height="677" key="#Project_Structure" timestamp="1586287397065">
+      <screen x="0" y="27" width="1331" height="741" />
+    </state>
+    <state x="260" y="58" width="847" height="677" key="#Project_Structure/0.27.1331.741@0.27.1331.741" timestamp="1586287397065" />
+    <state x="1013" y="552" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586285268765">
+      <screen x="0" y="27" width="1331" height="741" />
+    </state>
+    <state x="1013" y="552" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1331.741@0.27.1331.741" timestamp="1586285268765" />
+    <state x="1410" y="186" width="1815" height="698" key="FileChooserDialogImpl" timestamp="1586294566260">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state x="287" y="141" width="735" height="513" key="FileChooserDialogImpl/0.27.1331.741@0.27.1331.741" timestamp="1586287175876" />
+    <state x="1410" y="186" width="1815" height="698" key="FileChooserDialogImpl/0.27.3286.1053@0.27.3286.1053" timestamp="1586294566260" />
+    <state width="1285" height="175" key="GridCell.Tab.0.bottom" timestamp="1586294614158">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state width="1285" height="175" key="GridCell.Tab.0.bottom/0.27.1331.741@0.27.1331.741" timestamp="1586288210840" />
+    <state width="1285" height="175" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1586294614158" />
+    <state width="1285" height="175" key="GridCell.Tab.0.center" timestamp="1586294614157">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state width="1285" height="175" key="GridCell.Tab.0.center/0.27.1331.741@0.27.1331.741" timestamp="1586288210840" />
+    <state width="1285" height="175" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1586294614157" />
+    <state width="1285" height="175" key="GridCell.Tab.0.left" timestamp="1586294614156">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state width="1285" height="175" key="GridCell.Tab.0.left/0.27.1331.741@0.27.1331.741" timestamp="1586288210839" />
+    <state width="1285" height="175" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1586294614156" />
+    <state width="1285" height="175" key="GridCell.Tab.0.right" timestamp="1586294614157">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state width="1285" height="175" key="GridCell.Tab.0.right/0.27.1331.741@0.27.1331.741" timestamp="1586288210840" />
+    <state width="1285" height="175" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1586294614157" />
+    <state x="1217" y="0" width="1920" height="1053" key="SettingsEditor" timestamp="1586294591115">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state x="148" y="27" width="1024" height="741" key="SettingsEditor/0.27.1331.741@0.27.1331.741" timestamp="1586287187409" />
+    <state x="1217" y="0" width="1920" height="1053" key="SettingsEditor/0.27.3286.1053@0.27.3286.1053" timestamp="1586294591115" />
+    <state x="328" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586287269275">
+      <screen x="0" y="27" width="1331" height="741" />
+    </state>
+    <state x="328" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1331.741@0.27.1331.741" timestamp="1586287269275" />
+  </component>
+</project>
