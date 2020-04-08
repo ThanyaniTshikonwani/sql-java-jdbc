@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f205a320-1481-4746-87ed-488ed86bf7b2" name="Default Changelist" comment="" />
+    <list default="true" id="f205a320-1481-4746-87ed-488ed86bf7b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/SqlJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/SqlJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SqlJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SqlJava.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,10 +71,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aDvbDdh9NBH2i1jEjfyIVLSXBi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,6 +86,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../postgresql-42.2.12.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -97,6 +120,9 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="260" y="58" width="847" height="677" key="#Project_Structure" timestamp="1586287397065">
       <screen x="0" y="27" width="1331" height="741" />
@@ -106,36 +132,50 @@
       <screen x="0" y="27" width="1331" height="741" />
     </state>
     <state x="1013" y="552" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1331.741@0.27.1331.741" timestamp="1586285268765" />
-    <state x="1410" y="186" width="1815" height="698" key="FileChooserDialogImpl" timestamp="1586294566260">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state x="576" y="139" width="502" height="513" key="FileChooserDialogImpl" timestamp="1586301481793">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="287" y="141" width="735" height="513" key="FileChooserDialogImpl/0.27.1331.741@0.27.1331.741" timestamp="1586287175876" />
+    <state x="576" y="139" width="502" height="513" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1586301481793" />
     <state x="1410" y="186" width="1815" height="698" key="FileChooserDialogImpl/0.27.3286.1053@0.27.3286.1053" timestamp="1586294566260" />
-    <state width="1285" height="175" key="GridCell.Tab.0.bottom" timestamp="1586294614158">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state width="1285" height="194" key="GridCell.Tab.0.bottom" timestamp="1586337786389">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1285" height="175" key="GridCell.Tab.0.bottom/0.27.1331.741@0.27.1331.741" timestamp="1586288210840" />
+    <state width="1285" height="194" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1586337786389" />
     <state width="1285" height="175" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1586294614158" />
-    <state width="1285" height="175" key="GridCell.Tab.0.center" timestamp="1586294614157">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state width="1285" height="194" key="GridCell.Tab.0.center" timestamp="1586337786388">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1285" height="175" key="GridCell.Tab.0.center/0.27.1331.741@0.27.1331.741" timestamp="1586288210840" />
+    <state width="1285" height="194" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1586337786388" />
     <state width="1285" height="175" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1586294614157" />
-    <state width="1285" height="175" key="GridCell.Tab.0.left" timestamp="1586294614156">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state width="1285" height="194" key="GridCell.Tab.0.left" timestamp="1586337786388">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1285" height="175" key="GridCell.Tab.0.left/0.27.1331.741@0.27.1331.741" timestamp="1586288210839" />
+    <state width="1285" height="194" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1586337786388" />
     <state width="1285" height="175" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1586294614156" />
-    <state width="1285" height="175" key="GridCell.Tab.0.right" timestamp="1586294614157">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state width="1285" height="194" key="GridCell.Tab.0.right" timestamp="1586337786389">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1285" height="175" key="GridCell.Tab.0.right/0.27.1331.741@0.27.1331.741" timestamp="1586288210840" />
+    <state width="1285" height="194" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1586337786389" />
     <state width="1285" height="175" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1586294614157" />
-    <state x="1217" y="0" width="1920" height="1053" key="SettingsEditor" timestamp="1586294591115">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state x="251" y="95" width="824" height="602" key="NewModule_or_Project.wizard" timestamp="1586336870757">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="251" y="95" width="824" height="602" key="NewModule_or_Project.wizard/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1586336870757" />
+    <state x="506" y="27" width="1920" height="1053" key="SettingsEditor" timestamp="1586301246024">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="148" y="27" width="1024" height="741" key="SettingsEditor/0.27.1331.741@0.27.1331.741" timestamp="1586287187409" />
+    <state x="506" y="27" key="SettingsEditor/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1586301246024" />
     <state x="1217" y="0" width="1920" height="1053" key="SettingsEditor/0.27.3286.1053@0.27.3286.1053" timestamp="1586294591115" />
+    <state x="321" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586334872026">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="321" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1586334872026" />
     <state x="328" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586287269275">
       <screen x="0" y="27" width="1331" height="741" />
     </state>
