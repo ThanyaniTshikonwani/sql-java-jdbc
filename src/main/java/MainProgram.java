@@ -1,7 +1,12 @@
 public class MainProgram {
 
     static public void main(String[] args) {
-        Customer.customer();
+    CreateTable.createTable();
+//    InsertData.insertDataToTable();
+//    SqlCommands.customer();
+
+
+
 
     }
 }

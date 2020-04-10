@@ -73,14 +73,14 @@ insert into products (product_name,description,buy_price) values ('Sports car','
 select * from customer;  --SELECT ALL records from table Customers.
 select * from employees; --SELECT ALL records from table Employees.
 select first_name from customer; --SELECT records only from the name column in the Customers table.
-select * from customer where id = 1; --Show the name of the Customer whose CustomerID is 1.
-update customer set first_name = 'Lerato' , last_name = 'Mabitso' where id = 1; --UPDATE the record for CustomerID = 1 on the Customer table so that the name is “Lerato Mabitso”.
+select * from customer where id = 1; --Show the name of the SqlCommands whose CustomerID is 1.
+update customer set first_name = 'Lerato' , last_name = 'Mabitso' where id = 1; --UPDATE the record for CustomerID = 1 on the SqlCommands table so that the name is “Lerato Mabitso”.
 select * from customer; --SELECT ALL records from table Customers.
 delete from customer where id = 2; -- DELETE the record from the Customers table for customer 2 (CustomerID = 2).
 select * from customer; --SELECT ALL records from table Customers.
-select * from orders; --SELECT ALL records from table Orders.
-select distinct , count(*) from orders; \d person--Select all unique statuses from the Orders table and get a count of the number of orders for each unique status.
-select * from payments;--SELECT ALL records from table Payments.
+select * from orders; --SELECT ALL records from table InsertData.
+select distinct count(*) from orders; --Select all unique statuses from the InsertData table and get a count of the number of orders for each unique status.
+select * from payments;--SELECT ALL records from table CreateTable.
 select max(amount) from payments; -- Return the MAXIMUM payment made on the PAYMENTS table.
 select * from customer order by country; --Select all customers from the “Customers” table, sorted by the “Country” column.
 select * from products; -- SELECT ALL records from table Products.
@@ -88,10 +88,10 @@ select * from products where buy_price between 100 and 600; --Select all product
 select * from customer where country ='Germany' and city ='Berlin';--Select all fields from “Customers” where country is “Germany” AND city is “Berlin”.
 select * from customer where (city = 'Cape Town' or city = 'Durban');--Select all fields from “Customers” where city is “Cape Town” OR “Durban”.
 select * from products where buy_price > 500;--Select all records from Products where the Price is GREATER than R500.
-select sum(amount) from payments;--Return the sum of the Amounts on the Payments table.
-select status , count(*) from orders group by status;--Count the number of shipped orders in the Orders table.
+select sum(amount) from payments;--Return the sum of the Amounts on the CreateTable table.
+select status , count(*) from orders group by status;--Count the number of shipped orders in the InsertData table.
 select avg(buy_price), avg(buy_price*12) from products;--Return the average price of all Products, in Rands and in Dollars (assume the exchange rate is R12 to the Dollar).
-select  * from customer --Using INNER JOIN create a query that selects all Payments with Customer information.
+select  * from customer --Using INNER JOIN create a query that selects all CreateTable with SqlCommands information.
 select * from products where description = 'Turnable front wheels, steering function';--Select all products that have turnable front wheels.
 
 
